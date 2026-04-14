@@ -1,0 +1,71 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.project
+.pydevproject
+
+# Flask
+instance/
+.webassets-cache
+
+# Pickled files (optional - keep for model persistence)
+# *.pkl
+# *.pickle
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environment variables
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# CSV files (optional)
+# *.csv
+
+# Model files (optional - keep in repo or external storage)
+# trained_model.pkl
+# scaler.pkl
+# feature_selector.pkl
